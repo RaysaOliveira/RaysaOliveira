@@ -1,4 +1,4 @@
-## Hello Word 👋
+## Hello World 👋
 
 My name's Raysa, Im 28 years old and I live in Palmas, TO :brazil:
 
