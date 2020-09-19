@@ -8,7 +8,7 @@ My name's Raysa, Im 28 years old and I live in Palmas, TO :brazil:
 
 ### Improvement courses
 
-* Front-end Developer Bootcamp at [Instituto de Gestão e Tecnologia da Informação (IGTI)](https://www.igti.com.br)
+* Front-end Developer Bootcamp at [Instituto de Gestão e Tecnologia da Informação (IGTI)](https://www.igti.com.br) (in progress)
 * Bootstrap 4 - Intermediate
 * Scrum Foundation Professional Certificate
 * LINUX Essentials
