@@ -1,6 +1,8 @@
 ## Hello World 👋
 
-My name's Raysa, Im 28 years old and I live in Palmas, TO :brazil:
+My name's Raysa, I'm 28 years old and I live in Palmas, TO :brazil:
+
+---
 
   - :woman_technologist: I’m currently working with php and javascript as a systems analyst at Digitus Soluções em Sistemas, Palmas - To 
   - 📫 :incoming_envelope: 💬 How to reach me: [my linkedin](https://www.linkedin.com/in/raysa-oliveira/) or sending me a email: oliveira.raysa@gmail.com
