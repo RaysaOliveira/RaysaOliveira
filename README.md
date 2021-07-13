@@ -18,7 +18,7 @@ My name's Raysa, I'm 28 years old and I live in Palmas, TO :brazil:
 * Learning Linux Terminal
 
 
-## :minidisc: Languages/Frameworks 
+# Languages and Frameworks 
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50" />&nbsp;
