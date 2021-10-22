@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-My name's Raysa, I'm 28 years old and I live in Palmas, TO :brazil:
+My name's Raysa and I live in Palmas, TO :brazil:
 
 ---
 
