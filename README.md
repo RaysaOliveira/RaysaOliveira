@@ -11,6 +11,7 @@ My name's Raysa and I live in Palmas, TO :brazil:
 
 ### Improvement courses
 
+* Flutter - Fundamentos at [TreinaWeb](https://www.treinaweb.com.br)
 * Front-end Developer Bootcamp at [Instituto de Gestão e Tecnologia da Informação (IGTI)](https://www.igti.com.br) 
 * Bootstrap 4 - Intermediate
 * Scrum Foundation Professional Certificate
@@ -26,7 +27,7 @@ My name's Raysa and I live in Palmas, TO :brazil:
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="50" height="50" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50" />&nbsp;
 
 </p>
 
