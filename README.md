@@ -31,6 +31,14 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaysaOliveira/RaysaOliveira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaysaOliveira/RaysaOliveira/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaysaOliveira/RaysaOliveira/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://skyline.github.com/RaysaOliveira/2024">
     <img src="https://img.shields.io/badge/GitHub%20Skyline-2024-blue?style=for-the-badge&logo=github" alt="GitHub Skyline 2024"/>
   </a>
