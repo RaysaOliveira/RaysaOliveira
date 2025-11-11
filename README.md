@@ -22,32 +22,16 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RaysaOliveira&show_icons=true&include_all_commits=true&count_private=true&theme=default" 
-    alt="Raysa GitHub Stats" 
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaysaOliveira&layout=compact&theme=default" 
-    alt="Top Langs" 
-    height="180em"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaysaOliveira&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="Raysa GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaysaOliveira&layout=compact&theme=default" alt="Top Langs" height="180em"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RaysaOliveira&theme=default" 
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=RaysaOliveira&theme=default" alt="GitHub Streak"/>
 </p>
 
-### Contribution Snake
-
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/RaysaOliveira/RaysaOliveira/output/github-contribution-grid-snake.svg" 
-    alt="Snake animation"
-  />
+  <img src="https://raw.githubusercontent.com/RaysaOliveira/RaysaOliveira/master/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 
