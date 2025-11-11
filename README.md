@@ -36,7 +36,7 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=RaysaOliveira&theme=default" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RaysaOliveira&theme=default" 
     alt="GitHub Streak"
   />
 </p>
@@ -45,10 +45,11 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
 
 <p align="center">
   <img 
-    src="https://github.com/RaysaOliveira/RaysaOliveira/blob/output/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/RaysaOliveira/RaysaOliveira/output/github-contribution-grid-snake.svg" 
     alt="Snake animation"
   />
 </p>
+
 
 
 ### Languages and Frameworks
