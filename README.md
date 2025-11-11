@@ -27,7 +27,7 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RaysaOliveira&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaysaOliveira&theme=default" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -35,6 +35,7 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
     <img src="https://img.shields.io/badge/GitHub%20Skyline-2024-blue?style=for-the-badge&logo=github" alt="GitHub Skyline 2024"/>
   </a>
 </p>
+
 
 ### Languages and Frameworks
 
