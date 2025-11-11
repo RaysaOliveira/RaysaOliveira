@@ -31,9 +31,10 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaysaOliveira/RaysaOliveira/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <a href="https://skyline.github.com/RaysaOliveira/2024">
+    <img src="https://img.shields.io/badge/GitHub%20Skyline-2024-blue?style=for-the-badge&logo=github" alt="GitHub Skyline 2024"/>
+  </a>
 </p>
-
 
 ### Languages and Frameworks
 
