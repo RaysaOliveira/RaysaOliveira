@@ -31,9 +31,8 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RaysaOliveira/RaysaOliveira/master/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/RaysaOliveira/RaysaOliveira/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
-
 
 
 ### Languages and Frameworks
