@@ -19,6 +19,38 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
 - Linux Essentials
 - Learning Linux Terminal
 
+## GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RaysaOliveira&show_icons=true&include_all_commits=true&count_private=true&theme=default" 
+    alt="Raysa GitHub Stats" 
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaysaOliveira&layout=compact&theme=default" 
+    alt="Top Langs" 
+    height="180em"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=RaysaOliveira&theme=default" 
+    alt="GitHub Streak"
+  />
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://github.com/RaysaOliveira/RaysaOliveira/blob/output/github-contribution-grid-snake.svg" 
+    alt="Snake animation"
+  />
+</p>
+
+
 ### Languages and Frameworks
 
 <p align="left">
@@ -29,3 +61,5 @@ My name is Raysa and I live in Palmas, TO 🇧🇷
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/> &nbsp;
 </p>
+
+
